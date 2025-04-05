@@ -1,0 +1,8 @@
+ Props => 
+ Proos is way to pass data from one components to another conmponents
+
+componentsDidMount ==>
+  called immediately after a components is mounted.
+  it used for sideEfect on page Loade
+
+

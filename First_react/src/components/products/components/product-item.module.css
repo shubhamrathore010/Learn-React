@@ -1,0 +1,12 @@
+.buttonStyle{
+background-color: cadetblue;
+color: black;
+font-size: 18px;
+font-weight: bolder;
+}
+
+.productTitle {
+    font-size: 20px;
+    color: rgb(110, 17, 17);   
+    font-weight: bolder;
+}
